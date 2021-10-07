@@ -1,6 +1,7 @@
 
 # csv-diff-python3
 
+[![release](https://img.shields.io/github/v/release/blue-monk/csv-diff-python3)](https://github.com/blue-monk/csv-diff-python3/releases/tag/1.0.0)
 [![Python Version](https://img.shields.io/badge/Python-3.6%20%7C%203.7%20%7C%203.8%20%7C%203.9-blue)](README.md/#herb-requirements)
 [![testing](https://github.com/blue-monk/csv-diff-python3/actions/workflows/testing.yml/badge.svg)](https://github.com/blue-monk/csv-diff-python3/actions/workflows/testing.yml)
 [![coverage](https://github.com/blue-monk/csv-diff-python3/blob/gh-pages/coverage.svg)](https://blue-monk.github.io/csv-diff-python3/)
