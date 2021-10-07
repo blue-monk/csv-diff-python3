@@ -78,7 +78,7 @@ def main():
 class App(type):
 
     NAME = 'csv-diff-python3@blue-monk'
-    VERSION = '0.0.0'
+    VERSION = '1.0.0'
 
 
 class LoggingConfig(type):
