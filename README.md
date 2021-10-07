@@ -219,7 +219,7 @@ with differences  (!): 3 :-- Row Number Pairs -->: [(2, 3), (4, 4), (5, 5)]
 
 ## :herb: Contributing
 
-### Reporting Bugs
+### Reporting Bugs / Feature Requests
 
 We welcome you to use the GitHub issue tracker to report bugs or suggest features.
 
